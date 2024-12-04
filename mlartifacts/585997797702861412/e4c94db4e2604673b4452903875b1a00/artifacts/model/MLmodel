@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.15
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 372814
+model_uuid: 3e81412c6a8e4847956a77dc460d210d
+run_id: e4c94db4e2604673b4452903875b1a00
+signature:
+  inputs: '[{"type": "double", "name": "danceability", "required": true}, {"type":
+    "double", "name": "loudness", "required": true}, {"type": "double", "name": "energy",
+    "required": true}, {"type": "double", "name": "tempo", "required": true}, {"type":
+    "double", "name": "valence", "required": true}, {"type": "double", "name": "speechiness",
+    "required": true}, {"type": "double", "name": "liveness", "required": true}, {"type":
+    "double", "name": "acousticness", "required": true}, {"type": "double", "name":
+    "instrumentalness", "required": true}, {"type": "long", "name": "duration_ms",
+    "required": true}, {"type": "long", "name": "year", "required": true}, {"type":
+    "string", "name": "genre", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-12-03 16:16:38.158542'

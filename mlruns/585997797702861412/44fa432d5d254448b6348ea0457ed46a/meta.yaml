@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/44fa432d5d254448b6348ea0457ed46a/artifacts
+deleted_time: 1733242255523
+end_time: 1733242224103
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: deleted
+run_id: 44fa432d5d254448b6348ea0457ed46a
+run_name: colorful-skunk-127
+run_uuid: 44fa432d5d254448b6348ea0457ed46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733241987616
+status: 3
+tags: []
+user_id: kai

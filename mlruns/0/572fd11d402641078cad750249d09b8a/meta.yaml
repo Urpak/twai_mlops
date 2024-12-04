@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/572fd11d402641078cad750249d09b8a/artifacts
+deleted_time: 1733242197376
+end_time: 1733241271502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 572fd11d402641078cad750249d09b8a
+run_name: nebulous-goat-589
+run_uuid: 572fd11d402641078cad750249d09b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733241271165
+status: 3
+tags: []
+user_id: kai

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/9c1d9e7b5e2343eb85dc4f2e87b993fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: active
+run_id: 9c1d9e7b5e2343eb85dc4f2e87b993fb
+run_name: delicate-lamb-265
+run_uuid: 9c1d9e7b5e2343eb85dc4f2e87b993fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733243510815
+status: 1
+tags: []
+user_id: kai

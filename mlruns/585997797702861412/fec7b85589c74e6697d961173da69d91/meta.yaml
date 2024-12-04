@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/fec7b85589c74e6697d961173da69d91/artifacts
+deleted_time: 1733241925863
+end_time: null
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: deleted
+run_id: fec7b85589c74e6697d961173da69d91
+run_name: blushing-wolf-560
+run_uuid: fec7b85589c74e6697d961173da69d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733241650328
+status: 1
+tags: []
+user_id: kai

@@ -1,0 +1,16 @@
+digest: bbc72a02
+name: dataset
+profile: '{"num_rows": 289941, "num_elements": 3769233}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "danceability", "required":
+  true}, {"type": "double", "name": "loudness", "required": true}, {"type": "double",
+  "name": "energy", "required": true}, {"type": "double", "name": "tempo", "required":
+  true}, {"type": "double", "name": "valence", "required": true}, {"type": "double",
+  "name": "speechiness", "required": true}, {"type": "double", "name": "liveness",
+  "required": true}, {"type": "double", "name": "acousticness", "required": true},
+  {"type": "double", "name": "instrumentalness", "required": true}, {"type": "long",
+  "name": "duration_ms", "required": true}, {"type": "long", "name": "year", "required":
+  true}, {"type": "string", "name": "genre", "required": true}, {"type": "long", "name":
+  "verdict", "required": true}]}'
+source: '{"tags": {"mlflow.user": "kai", "mlflow.source.name": "/home/kai/miniconda3/envs/M4mlops/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
