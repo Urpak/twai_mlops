@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/58e7f37aea5b4716bd95e18487cf99c5/artifacts
+end_time: 1733325114539
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: active
+run_id: 58e7f37aea5b4716bd95e18487cf99c5
+run_name: intrigued-hen-109
+run_uuid: 58e7f37aea5b4716bd95e18487cf99c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733322455034
+status: 3
+tags: []
+user_id: kai

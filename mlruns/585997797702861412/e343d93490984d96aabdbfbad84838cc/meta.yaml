@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/e343d93490984d96aabdbfbad84838cc/artifacts
+end_time: 1733327713562
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: active
+run_id: e343d93490984d96aabdbfbad84838cc
+run_name: carefree-deer-917
+run_uuid: e343d93490984d96aabdbfbad84838cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733327245084
+status: 3
+tags: []
+user_id: kai

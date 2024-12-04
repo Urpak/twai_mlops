@@ -1,0 +1,4 @@
+{
+  "balanced_accuracy_score_test_input": "balanced_accuracy_score(y_true=test_output, y_pred=predict_output)",
+  "f1_score_test_input": "f1_score(y_true=test_output, y_pred=predict_output, average='weighted')"
+}
