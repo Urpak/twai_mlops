@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/585997797702861412/e4c94db4e2604673b4452903875b1a00/artifacts
+deleted_time: 1733408932972
 end_time: 1733243496656
 entry_point_name: ''
 experiment_id: '585997797702861412'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e4c94db4e2604673b4452903875b1a00
 run_name: sedate-pug-786
 run_uuid: e4c94db4e2604673b4452903875b1a00

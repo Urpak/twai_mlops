@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/d324be3f73fc4c198103c0ecb30c9e70/artifacts
+end_time: 1733408957502
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: active
+run_id: d324be3f73fc4c198103c0ecb30c9e70
+run_name: nervous-pig-439
+run_uuid: d324be3f73fc4c198103c0ecb30c9e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733408782122
+status: 3
+tags: []
+user_id: kai

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/629bb6f57f924966b08b371ae129082b/artifacts
+deleted_time: 1733408920504
+end_time: 1733407171310
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: deleted
+run_id: 629bb6f57f924966b08b371ae129082b
+run_name: zealous-hawk-109
+run_uuid: 629bb6f57f924966b08b371ae129082b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733405810559
+status: 3
+tags: []
+user_id: kai

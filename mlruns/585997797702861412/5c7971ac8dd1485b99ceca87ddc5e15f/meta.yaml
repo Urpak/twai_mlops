@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/5c7971ac8dd1485b99ceca87ddc5e15f/artifacts
+deleted_time: 1733408736278
+end_time: 1733407331596
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: deleted
+run_id: 5c7971ac8dd1485b99ceca87ddc5e15f
+run_name: crawling-dolphin-468
+run_uuid: 5c7971ac8dd1485b99ceca87ddc5e15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407260377
+status: 3
+tags: []
+user_id: kai

@@ -1,0 +1,10 @@
+ColumnTransformer(transformers=[('numerical_preprocessor',
+                                 Pipeline(steps=[('encoder',
+                                                  StandardScaler())]),
+                                 ['danceability', 'loudness', 'energy', 'tempo',
+                                  'valence', 'speechiness', 'liveness',
+                                  'acousticness', 'instrumentalness',
+                                  'duration_ms', 'year']),
+                                ('categorical_pipeline',
+                                 Pipeline(steps=[('encoder', OneHotEncoder())]),
+                                 ['genre'])])

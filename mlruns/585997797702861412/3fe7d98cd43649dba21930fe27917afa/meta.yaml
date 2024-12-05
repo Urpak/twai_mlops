@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/3fe7d98cd43649dba21930fe27917afa/artifacts
+deleted_time: 1733408719590
+end_time: 1733408322935
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: deleted
+run_id: 3fe7d98cd43649dba21930fe27917afa
+run_name: nosy-colt-696
+run_uuid: 3fe7d98cd43649dba21930fe27917afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733408267777
+status: 4
+tags: []
+user_id: kai

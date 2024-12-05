@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/585997797702861412/5ce8494a924a411ba850e837017769ae/artifacts
+deleted_time: 1733408736274
 end_time: 1733327227732
 entry_point_name: ''
 experiment_id: '585997797702861412'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5ce8494a924a411ba850e837017769ae
 run_name: puzzled-bear-494
 run_uuid: 5ce8494a924a411ba850e837017769ae

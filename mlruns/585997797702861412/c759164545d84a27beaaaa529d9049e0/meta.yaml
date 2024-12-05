@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/585997797702861412/c759164545d84a27beaaaa529d9049e0/artifacts
+deleted_time: 1733408719590
+end_time: 1733407814511
+entry_point_name: ''
+experiment_id: '585997797702861412'
+lifecycle_stage: deleted
+run_id: c759164545d84a27beaaaa529d9049e0
+run_name: judicious-grouse-530
+run_uuid: c759164545d84a27beaaaa529d9049e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407760838
+status: 4
+tags: []
+user_id: kai
